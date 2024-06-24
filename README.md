@@ -1,4 +1,4 @@
-# 💫 About Nguyen Minh Tri:
+# 💫 About me:
 🌱 I’m currently learning Javascript core, Reactjs and UI/UX design<br><br>👨‍💻 All of my projects are available at https://minhtri180804.github.io/<br><br>📝 I regularly write articles on https://minhtri180804.github.io/<br><br>💬 Ask me about Html, Css, Tailwind css, Sass, Javascript, Typescript, UI/UX, React, Docker, etc...<br><br>📫 How to reach me nguyenminhtri1808t@gmail.com<br><br>📄 Know about my experiences [6 month -> 1 year](6 month -> 1 year)<br><br>⚡ Fun fact I think i am funny and positive and enthusiastic
 
 
