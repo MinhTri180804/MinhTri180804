@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Minh Trí</h1>
+<h1 align="center">Hi 👋, I'm NGUYEN MINH TRI</h1>
 <h3 align="center">I want to become a software engineer specializing in the field of user interface and Ui/Ux designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtri180804&label=Profile%20views&color=0e75b6&style=flat" alt="minhtri180804" /> </p>
